@@ -13,10 +13,6 @@
     "email": "hr.msjensen@gmail.com",
     "maintainer": true
   },
-  "dependencies":
-  {
-    
-  },
   "version": "0.0.1",
   "frameworks": "arduino",
   "platforms": "*"
