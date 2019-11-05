@@ -1,0 +1,23 @@
+{
+  "name": "AD8495",
+  "keywords": "type-k, thermocouple, amplifier, analog, sensor, temperature",
+  "description": "Arduino Library for Analog Devices AD8495 analog thermocouple amplifier",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/msjensen/AD8495.git"
+  },
+  "authors":
+  {
+    "name": "Mike Steffen Jensen",
+    "email": "hr.msjensen@gmail.com",
+    "maintainer": true
+  },
+  "dependencies":
+  {
+    
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
